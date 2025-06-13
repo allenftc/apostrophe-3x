@@ -1,8 +1,8 @@
 # "Highway to Puyallup, I'm just cruising on I-5" - https://www.youtube.com/watch?v=eH1ridUXGf0
 ## What it is
-This is Highway Helper, an AI powered device that projects a heads up display onto a car's windshield. 
+This is Apostrophe 3X (formerly Highway Helper), an AI powered device that projects a heads up display onto a car's windshield and will also run openpilot.
 ## How it will work
-It will use some sort of processor (still deciding, most likely a Radxa Rock 4D), a screen, a camera (possibly stereo if I wanted), and connect to the OBD2 port to get vehicle speeds and stuff. 
+It will use some sort of processor (still deciding, most likely a Radxa Rock 4D), a screen, a camera (might try to hack into the car's cameras, and connect to the ADAS CAN port to control the car. 
 ## What it will do
 It will mainly project speed, but I may add other helpful/fun features such as stop light detection that calculates whether to go or stop, something that tracks the order of a 4 way stop, and other interesting features. I may also try to render things it sees similarly to a Tesla which would be pretty fun. Additionally, it can also act as an audio device, and because it is connected to CAN, it can make engine noises for my electric car! The camera will also be recording as a dashcam. One possibility is to try to get openpilot running on it although it might be slightly cooked.
 ## Why not use a phone
