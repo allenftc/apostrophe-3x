@@ -36,4 +36,4 @@ I plan on adding relays to add full passthrough just like how the Comma does it,
 
 Time Spent: 2h
 
-**Total time spent: 1.5h**
+**Total time spent: 3.5h**
